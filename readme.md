@@ -1,5 +1,4 @@
-# Important Instructions for README.md
-=====================================
+
 ## 1.How to Play:
 
 * Choose a difficulty level: Easy (3-digit, 10 attempts), Medium (4-digit, 7 attempts), or Hard (5-digit, 5 attempts).
